@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel,Testing**
 
 - 📫 How to reach me **nyarasadek010@gmail.com**
 
